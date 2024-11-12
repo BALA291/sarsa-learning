@@ -94,15 +94,17 @@ def sarsa(env,
 
 ### Optimal policy, optimal value function , success rate for the optimal policy:
 
-<img src="https://github.com/user-attachments/assets/062191a2-537b-431a-8b44-c7ed0ec87591" width=50%>
+![Screenshot 2024-11-12 223200](https://github.com/user-attachments/assets/e07dcffa-5a2a-4c80-a80b-51fc80de3dda)
+
 
 ### State value functions of Monte Carlo method:
 
-<img src="https://github.com/user-attachments/assets/8db15f4b-1524-43b3-8063-997eb5f28956" width=50%>
+![Screenshot 2024-11-12 223406](https://github.com/user-attachments/assets/c20fdeb2-56b3-42eb-8d24-3461207bac23)
 
 ### State value functions of SARSA learning:
 
-<img src="https://github.com/user-attachments/assets/3466ac15-a171-4316-92d9-c5bd113683a6" width=50%>
+![Screenshot 2024-11-12 223516](https://github.com/user-attachments/assets/54cf4cb3-bd12-4ca5-95f9-d526fc6d0c21)
+
 
 ## RESULT:
 Thus, SARSA learning successfully trained an agent for optimal policy.
